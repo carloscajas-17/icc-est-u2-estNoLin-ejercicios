@@ -166,6 +166,11 @@ Este método calcula la profundidad máxima de un árbol binario (camino más la
 - ✅ Subir la URL del repositorio al AVAC.
 
 ---
+## Resultados de Ejecución
+![Resultados de Ejecución](CapturaEjer.png)
+
+
+---
 
 ## 🧠 Conclusiones
 
@@ -189,6 +194,7 @@ Este método calcula la profundidad máxima de un árbol binario (camino más la
 **Ing. Pablo Torres**  
 Repositorio base:  
 🔗 [https://github.com/PabloT18/icc-est-u2-estNoLin-ejercicios](https://github.com/PabloT18/icc-est-u2-estNoLin-ejercicios)
+
 
 
 
